@@ -107,7 +107,7 @@
         "docs": "http://carbonfields.net/docs/",
         "email": "wordpress@htmlburger.com"
     },
-    "type": "wordpress-plugin",
+    "type": "wordpress-muplugin",
     "dist": {
         "url": "https://carbonfields.net/zip/v3.1.20/",
         "type": "zip"
